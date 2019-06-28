@@ -67,14 +67,25 @@
   "plugins": [
     {
       "id": 1,
-      "name": "akismet"
+      "name": "akismet",
+      "version": "4.0.8"
     },
     {
       "id": 2,
-      "name": "wp super cache"
+      "name": "wp super cache",
+      "version": "3.2.2"
     }
   ],
-  "themes": {
-    "name": "Herald"
-  }
+  "themes": [
+    {
+      "id": 1,
+      "name": "Twenty Nineteen",
+      "version": "1.4"
+    },
+    {
+      "id": 2,
+      "name": "Twenty Seventeen",
+      "version": "2.2"
+    }
+  ]
 }
