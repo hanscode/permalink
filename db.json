@@ -186,7 +186,7 @@
       "siteId": 7,
       "id": 14,
       "name": "custom permalinks",
-      "image": "https://ps.w.org/custom-permalinks/assets/icon-128x128.png",
+      "image": "https://ps.w.org/custom-permalinks/assets/icon.svg?rev=1785367",
       "author": "Sami Ahmed Siddiqui",
       "description": "Set custom permalinks on a per-post, per-tag or per-category basis.",
       "version": "1.5.1"
