@@ -132,7 +132,7 @@
       "siteId": 4,
       "id": 8,
       "name": "disqus comment system",
-      "image": "https://ps.w.org/disqus-comment-system/assets/icon-128x128.png",
+      "image": "https://ps.w.org/disqus-comment-system/assets/icon.svg?rev=1636350",
       "author": "Disqus",
       "description": "Disqus is the web's most popular comment system. Use Disqus to increase engagement, retain readers, and grow your audience.",
       "version": "3.0.17"
