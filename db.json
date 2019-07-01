@@ -66,26 +66,223 @@
   ],
   "plugins": [
     {
+      "siteId": 1,
       "id": 1,
       "name": "akismet",
+      "image": "https://ps.w.org/akismet/assets/icon-128x128.png",
+      "author": "Auttomatic",
+      "description": "Akismet checks your comments and contact form submissions against our global database of spam to protect you and your site from malicious content.",
       "version": "4.0.8"
     },
     {
+      "siteId": 1,
       "id": 2,
       "name": "wp super cache",
+      "image": "https://ps.w.org/wp-super-cache/assets/icon-128x128.png",
+      "author": "Auttomatic",
+      "description": "A very fast caching engine for WordPress that produces static html files.",
+      "version": "1.6.8"
+    },
+    {
+      "siteId": 2,
+      "id": 3,
+      "name": "akismet",
+      "image": "https://ps.w.org/akismet/assets/icon-128x128.png",
+      "author": "Auttomatic",
+      "description": "Akismet checks your comments and contact form submissions against our global database of spam to protect you and your site from malicious content.",
+      "version": "4.0.8"
+    },
+    {
+      "siteId": 3,
+      "id": 4,
+      "name": "autoptimize",
+      "image": "https://ps.w.org/autoptimize/assets/icon-128x128.png",
+      "author": "Frank Goossens (futtta)",
+      "description": "Autoptimize speeds up your website by optimizing JS, CSS and HTML, async-ing JavaScript, removing emoji cruft, optimizing Google Fonts and more.",
+      "version": "2.5.1"
+    },
+    {
+      "siteId": 3,
+      "id": 5,
+      "name": "contact form 7",
+      "image": "https://ps.w.org/contact-form-7/assets/icon-128x128.png",
+      "author": "Takayuki Miyoshi",
+      "description": "Just another contact form plugin. Simple but flexible.",
+      "version": "5.1.3"
+    },
+    {
+      "siteId": 4,
+      "id": 6,
+      "name": "contact form 7",
+      "image": "https://ps.w.org/contact-form-7/assets/icon-128x128.png",
+      "author": "Takayuki Miyoshi",
+      "description": "Just another contact form plugin. Simple but flexible.",
+      "version": "5.1.3"
+    },
+    {
+      "siteId": 4,
+      "id": 7,
+      "name": "column shortcodes",
+      "image": "https://ps.w.org/column-shortcodes/assets/icon-128x128.png",
+      "author": "Codepress",
+      "description": "Adds shortcodes to easily create columns in your posts or pages",
+      "version": "1.0"
+    },
+    {
+      "siteId": 4,
+      "id": 8,
+      "name": "disqus comment system",
+      "image": "https://ps.w.org/disqus-comment-system/assets/icon-128x128.png",
+      "author": "Disqus",
+      "description": "Disqus is the web's most popular comment system. Use Disqus to increase engagement, retain readers, and grow your audience.",
+      "version": "3.0.17"
+    },
+    {
+      "siteId": 5,
+      "id": 9,
+      "name": "duplicate post",
+      "image": "https://ps.w.org/duplicate-post/assets/icon-128x128.png",
+      "author": "Enrico Battocchi",
+      "description": "Copy posts of any type with a click!",
       "version": "3.2.2"
+    },
+    {
+      "siteId": 5,
+      "id": 10,
+      "name": "mailchimp for wp",
+      "image": "https://ps.w.org/mailchimp-for-wp/assets/icon-128x128.png",
+      "author": "ibericode",
+      "description": "MailChimp for WordPress, the #1 MailChimp plugin.",
+      "version": "4.0.8"
+    },
+    {
+      "siteId": 6,
+      "id": 11,
+      "name": "yoast seo",
+      "image": "https://ps.w.org/wordpress-seo/assets/icon-128x128.png",
+      "author": "Team Yoast",
+      "description": "Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the Yoast SEO plugin.",
+      "version": "11.5"
+    },
+    {
+      "siteId": 6,
+      "id": 12,
+      "name": "woocommerce",
+      "image": "https://ps.w.org/woocommerce/assets/icon-128x128.png",
+      "author": "Auttomatic",
+      "description": "WooCommerce is a flexible, open-source eCommerce solution built on WordPress. Sell anything, anywhere and make your way.",
+      "version": "3.6.4"
+    },
+    {
+      "siteId": 7,
+      "id": 13,
+      "name": "testimonial rotator",
+      "image": "https://ps.w.org/testimonial-rotator/assets/icon-128x128.png",
+      "author": "Hal Gatewood",
+      "description": "Easily add Testimonials to your WordPress Blog or Company Website.",
+      "version": "2.5.2"
+    },
+    {
+      "siteId": 7,
+      "id": 14,
+      "name": "custom permalinks",
+      "image": "https://ps.w.org/custom-permalinks/assets/icon-128x128.png",
+      "author": "Sami Ahmed Siddiqui",
+      "description": "Set custom permalinks on a per-post, per-tag or per-category basis.",
+      "version": "1.5.1"
     }
   ],
   "themes": [
     {
+      "siteId": 1,
       "id": 1,
       "name": "Twenty Nineteen",
+      "author": "The WordPress Team",
       "version": "1.4"
     },
     {
+      "siteId": 1,
       "id": 2,
       "name": "Twenty Seventeen",
+      "author": "The WordPress Team",
       "version": "2.2"
+    },
+    {
+      "siteId": 2,
+      "id": 2,
+      "name": "Twenty Nineteen",
+      "author": "The WordPress Team",
+      "version": "1.4"
+    },
+    {
+      "siteId": 2,
+      "id": 3,
+      "name": "Hello Elementor",
+      "author": "Elementor",
+      "version": "2.1.2"
+    },
+    {
+      "siteId": 3,
+      "id": 4,
+      "name": "OceanWP",
+      "author": "oceanwp",
+      "version": "1.6.8"
+    },
+    {
+      "siteId": 4,
+      "id": 5,
+      "name": "Hestia",
+      "author": "Themeisle",
+      "version": "2.4.5"
+    },
+    {
+      "siteId": 4,
+      "id": 6,
+      "name": "Twenty Seventeen",
+      "author": "The WordPress Team",
+      "version": "2.2"
+    },
+    {
+      "siteId": 5,
+      "id": 7,
+      "name": "Herald",
+      "author": "meks",
+      "version": "2.0"
+    },
+    {
+      "siteId": 5,
+      "id": 8,
+      "name": "Storefront",
+      "author": "Automattic",
+      "version": "2.5.0"
+    },
+    {
+      "siteId": 6,
+      "id": 9,
+      "name": "Twenty Twelve",
+      "author": "WordPress.org",
+      "version": "3.0"
+    },
+    {
+      "siteId": 6,
+      "id": 10,
+      "name": "Zerif Lite",
+      "author": "Themeisle",
+      "version": "1.8.5.49"
+    },
+    {
+      "siteId": 7,
+      "id": 11
+      "name": "Twenty Seventeen",
+      "author": "The WordPress Team",
+      "version": "2.2"
+    },
+    {
+      "siteId": 7,
+      "id": 12
+      "name": "Twenty Nineteen",
+      "author": "The WordPress Team",
+      "version": "1.4"
     }
   ]
 }
