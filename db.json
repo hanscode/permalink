@@ -272,14 +272,14 @@
     },
     {
       "siteId": 7,
-      "id": 11
+      "id": 11,
       "name": "Twenty Seventeen",
       "author": "The WordPress Team",
       "version": "2.2"
     },
     {
       "siteId": 7,
-      "id": 12
+      "id": 12,
       "name": "Twenty Nineteen",
       "author": "The WordPress Team",
       "version": "1.4"
