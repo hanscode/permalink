@@ -5,6 +5,7 @@
 			"url": "mashable.com",
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
+			"update": "none",
 			"client": "Arya Stark",
 			"ssl": "enabled",
 			"alert": "success"
@@ -15,6 +16,7 @@
 			"url": "venturebeat.com",
 			"status": "Updates Avaiblable",
 			"version": "4.9.6",
+			"update": "available",
 			"client": "Daenerys Targaryen",
 			"ssl": "enabled",
 			"alert": "warning"
@@ -25,6 +27,7 @@
 			"url": "businessinsider.com",
 			"status": "Security Issues",
 			"version": "5.1.0",
+			"update": "available",
 			"client": "Jhon Snow",
 			"ssl": "enabled",
 			"alert": "danger"
@@ -35,6 +38,7 @@
 			"url": "pulsosocial.com",
 			"status": "Updates Avaiblable",
 			"version": "5.2.2",
+			"update": "none",
 			"client": "Andres Barreto",
 			"ssl": "enabled",
 			"alert": "warning"
@@ -45,6 +49,7 @@
 			"url": "pricode.io",
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
+			"update": "none",
 			"client": "",
 			"ssl": "none",
 			"alert": "success"
@@ -55,6 +60,7 @@
 			"url": "bits.com.co",
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
+			"update": "none",
 			"client": "Diego Herrera",
 			"ssl": "none",
 			"alert": "success"
@@ -65,6 +71,7 @@
 			"url": "socialatomgroup.com",
 			"status": "Security Issues",
 			"version": "4.9.0",
+			"update": "available",
 			"client": "Andres Barreto",
 			"ssl": "enabled",
 			"alert": "danger"
