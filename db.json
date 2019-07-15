@@ -72,7 +72,7 @@
 	],
 	"plugins": [{
 			"siteId": 1,
-			"id": 1,
+			"plugin_id": 1,
 			"name": "akismet",
 			"status": "inactive",
 			"update": "none",
@@ -83,7 +83,7 @@
 		},
 		{
 			"siteId": 1,
-			"id": 2,
+			"plugin_id": 2,
 			"name": "wp super cache",
 			"status": "active",
 			"update": "none",
@@ -94,7 +94,7 @@
 		},
 		{
 			"siteId": 2,
-			"id": 3,
+			"plugin_id": 3,
 			"name": "akismet",
 			"status": "active",
 			"update": "available",
@@ -105,7 +105,7 @@
 		},
 		{
 			"siteId": 3,
-			"id": 4,
+			"plugin_id": 4,
 			"name": "autoptimize",
 			"status": "inactive",
 			"update": "none",
@@ -116,7 +116,7 @@
 		},
 		{
 			"siteId": 3,
-			"id": 5,
+			"plugin_id": 5,
 			"name": "contact form 7",
 			"status": "active",
 			"update": "available",
@@ -127,7 +127,7 @@
 		},
 		{
 			"siteId": 4,
-			"id": 6,
+			"plugin_id": 6,
 			"name": "contact form 7",
 			"status": "active",
 			"update": "available",
@@ -138,7 +138,7 @@
 		},
 		{
 			"siteId": 4,
-			"id": 7,
+			"plugin_id": 7,
 			"name": "column shortcodes",
 			"status": "active",
 			"update": "available",
@@ -149,7 +149,7 @@
 		},
 		{
 			"siteId": 4,
-			"id": 8,
+			"plugin_id": 8,
 			"name": "disqus comment system",
 			"status": "active",
 			"update": "none",
@@ -160,7 +160,7 @@
 		},
 		{
 			"siteId": 5,
-			"id": 9,
+			"plugin_id": 9,
 			"name": "duplicate post",
 			"status": "active",
 			"update": "none",
@@ -171,7 +171,7 @@
 		},
 		{
 			"siteId": 5,
-			"id": 10,
+			"plugin_id": 10,
 			"name": "mailchimp for wp",
 			"status": "active",
 			"update": "none",
@@ -182,7 +182,7 @@
 		},
 		{
 			"siteId": 6,
-			"id": 11,
+			"plugin_id": 11,
 			"name": "yoast seo",
 			"status": "inactive",
 			"update": "none",
@@ -193,7 +193,7 @@
 		},
 		{
 			"siteId": 6,
-			"id": 12,
+			"plugin_id": 12,
 			"name": "woocommerce",
 			"status": "active",
 			"update": "none",
@@ -204,7 +204,7 @@
 		},
 		{
 			"siteId": 7,
-			"id": 13,
+			"plugin_id": 13,
 			"name": "testimonial rotator",
 			"status": "active",
 			"update": "available",
@@ -215,7 +215,7 @@
 		},
 		{
 			"siteId": 7,
-			"id": 14,
+			"plugin_id": 14,
 			"name": "custom permalinks",
 			"status": "inactive",
 			"update": "none",
@@ -227,7 +227,7 @@
 	],
 	"themes": [{
 			"siteId": 1,
-			"id": 1,
+			"theme_id": 1,
 			"name": "Twenty Nineteen",
 			"status": "active",
 			"update": "none",
@@ -238,7 +238,7 @@
 		},
 		{
 			"siteId": 1,
-			"id": 2,
+			"theme_id": 2,
 			"name": "Twenty Seventeen",
 			"status": "inactive",
 			"update": "none",
@@ -248,8 +248,19 @@
 			"version": "2.2"
 		},
 		{
+			"siteId": 1,
+			"theme_id": 3,
+			"name": "Hello Elementor",
+			"status": "inactive",
+			"update": "available",
+			"author": "Elementor",
+			"description": "A plain-vanilla & lightweight theme for Elementor page builder",
+			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/hello-elementor/2.1.2/screenshot.png",
+			"version": "2.1.2"
+		},
+		{
 			"siteId": 2,
-			"id": 2,
+			"theme_id": 4,
 			"name": "Twenty Nineteen",
 			"status": "active",
 			"update": "none",
@@ -260,7 +271,7 @@
 		},
 		{
 			"siteId": 2,
-			"id": 3,
+			"theme_id": 5,
 			"name": "Hello Elementor",
 			"status": "inactive",
 			"update": "available",
@@ -271,7 +282,7 @@
 		},
 		{
 			"siteId": 3,
-			"id": 4,
+			"theme_id": 6,
 			"name": "OceanWP",
 			"status": "active",
 			"update": "none",
@@ -282,7 +293,7 @@
 		},
 		{
 			"siteId": 4,
-			"id": 5,
+			"theme_id": 7,
 			"name": "Hestia",
 			"status": "active",
 			"update": "none",
@@ -293,7 +304,7 @@
 		},
 		{
 			"siteId": 4,
-			"id": 6,
+			"theme_id": 8,
 			"name": "Twenty Seventeen",
 			"status": "inactive",
 			"update": "available",
@@ -304,7 +315,7 @@
 		},
 		{
 			"siteId": 5,
-			"id": 7,
+			"theme_id": 9,
 			"name": "Herald",
 			"status": "active",
 			"update": "none",
@@ -315,7 +326,7 @@
 		},
 		{
 			"siteId": 5,
-			"id": 8,
+			"theme_id": 10,
 			"name": "Storefront",
 			"status": "inactive",
 			"update": "none",
@@ -326,7 +337,7 @@
 		},
 		{
 			"siteId": 6,
-			"id": 9,
+			"theme_id": 11,
 			"name": "Twenty Twelve",
 			"status": "active",
 			"update": "none",
@@ -337,7 +348,7 @@
 		},
 		{
 			"siteId": 6,
-			"id": 10,
+			"theme_id": 12,
 			"name": "Zerif Lite",
 			"status": "inactive",
 			"update": "none",
@@ -348,7 +359,7 @@
 		},
 		{
 			"siteId": 7,
-			"id": 11,
+			"theme_id": 13,
 			"name": "Twenty Seventeen",
 			"status": "active",
 			"update": "available",
@@ -359,7 +370,7 @@
 		},
 		{
 			"siteId": 7,
-			"id": 12,
+			"theme_id": 14,
 			"name": "Twenty Nineteen",
 			"status": "inactive",
 			"update": "none",
@@ -367,11 +378,34 @@
 			"description": "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/twentynineteen/1.4/screenshot.png",
 			"version": "1.4"
+		},
+		{
+			"siteId": 7,
+			"theme_id": 15,
+			"name": "Zerif Lite",
+			"status": "inactive",
+			"update": "none",
+			"author": "Themeisle",
+			"description": "Zerif LITE is a free one page WordPress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes.",
+			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/zerif-lite/1.8.5.49/screenshot.png",
+			"version": "1.8.5.49"
+		},
+		{
+			"siteId": 7,
+			"theme_id": 16,
+			"name": "Storefront",
+			"status": "inactive",
+			"update": "none",
+			"author": "Automattic",
+			"description": "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!",
+			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/storefront/2.5.0/screenshot.png",
+			"version": "2.5.0"
 		}
+
 	],
 	"users": [{
 			"siteId": 1,
-			"id": 1,
+			"user_id": 1,
 			"user_login": "andreamcornejo",
 			"display_name": "Andrea Cornejo",
 			"user_email": "andrea@mashable.com",
@@ -380,7 +414,7 @@
 		},
 		{
 			"siteId": 1,
-			"id": 2,
+			"user_id": 2,
 			"user_login": "alancolmenares",
 			"display_name": "Alan Colmenares",
 			"user_email": "alan@mashable.com",
@@ -389,7 +423,7 @@
 		},
 		{
 			"siteId": 2,
-			"id": 3,
+			"user_id": 3,
 			"user_login": "danielfalcon",
 			"display_name": "Daniel Falcón",
 			"user_email": "daniel.falcon@venturebeat.com",
@@ -398,7 +432,7 @@
 		},
 		{
 			"siteId": 2,
-			"id": 4,
+			"user_id": 4,
 			"user_login": "guillermoechavarria",
 			"display_name": "Guillermo Echavarria",
 			"user_email": "elguille@venturebeat.com",
@@ -407,7 +441,7 @@
 		},
 		{
 			"siteId": 2,
-			"id": 5,
+			"user_id": 5,
 			"user_login": "emilyS",
 			"display_name": "Emily Stewart",
 			"user_email": "emily@venturebeat.com",
@@ -416,7 +450,7 @@
 		},
 		{
 			"siteId": 3,
-			"id": 6,
+			"user_id": 6,
 			"user_login": "Kanya",
 			"display_name": "Kanya",
 			"user_email": "kanya@binsider.com",
@@ -425,7 +459,7 @@
 		},
 		{
 			"siteId": 3,
-			"id": 7,
+			"user_id": 7,
 			"user_login": "danissa",
 			"display_name": "Danissa Cuevas",
 			"user_email": "danissacuevas@binsider.com",
@@ -434,7 +468,7 @@
 		},
 		{
 			"siteId": 4,
-			"id": 8,
+			"user_id": 8,
 			"user_login": "andresbarreto",
 			"display_name": "Andres Barreto",
 			"user_email": "andres.barreto@gmai.com",
@@ -443,7 +477,7 @@
 		},
 		{
 			"siteId": 4,
-			"id": 9,
+			"user_id": 9,
 			"user_login": "FernandPonceGomez",
 			"display_name": "Fernando Ponce",
 			"user_email": "fernando.poncegomez@gmai.com",
@@ -452,7 +486,7 @@
 		},
 		{
 			"siteId": 4,
-			"id": 10,
+			"user_id": 10,
 			"user_login": "gustavomurillo",
 			"display_name": "Gustavo Murillo",
 			"user_email": "gus@pulso.com",
@@ -461,7 +495,7 @@
 		},
 		{
 			"siteId": 4,
-			"id": 11,
+			"user_id": 11,
 			"user_login": "hans",
 			"display_name": "Hans Steffens",
 			"user_email": "hans@steffens.co",
@@ -470,7 +504,7 @@
 		},
 		{
 			"siteId": 4,
-			"id": 12,
+			"user_id": 12,
 			"user_login": "jessica",
 			"display_name": "Jessica Mercedes",
 			"user_email": "jessica@pulso.com",
@@ -479,7 +513,7 @@
 		},
 		{
 			"siteId": 5,
-			"id": 13,
+			"user_id": 13,
 			"user_login": "tamara",
 			"display_name": "Tamara Saavedra ",
 			"user_email": "tamara@hotmail.com",
@@ -488,7 +522,7 @@
 		},
 		{
 			"siteId": 5,
-			"id": 14,
+			"user_id": 14,
 			"user_login": "ury",
 			"display_name": "Ury Sarabia ",
 			"user_email": "sarabia@gmail.co",
@@ -497,7 +531,7 @@
 		},
 		{
 			"siteId": 6,
-			"id": 15,
+			"user_id": 15,
 			"user_login": "vicky",
 			"display_name": "Victoria OShee",
 			"user_email": "vickyoshee@hotmail.com",
@@ -506,7 +540,7 @@
 		},
 		{
 			"siteId": 6,
-			"id": 16,
+			"user_id": 16,
 			"user_login": "webadmin",
 			"display_name": "webadmin",
 			"user_email": "saurabhbhide@gmail.co",
@@ -515,7 +549,7 @@
 		},
 		{
 			"siteId": 6,
-			"id": 17,
+			"user_id": 17,
 			"user_login": "willmarpimentel",
 			"display_name": "Willmar Pimentel",
 			"user_email": "willmar.pimentel@gmail.co",
@@ -524,7 +558,7 @@
 		},
 		{
 			"siteId": 7,
-			"id": 18,
+			"user_id": 18,
 			"user_login": "yuri",
 			"display_name": "Yuri Gómez",
 			"user_email": "vanhouseip@gmail.co",
@@ -533,7 +567,7 @@
 		},
 		{
 			"siteId": 7,
-			"id": 19,
+			"user_id": 19,
 			"user_login": "maria",
 			"display_name": " Maria Fernanda Martinez",
 			"user_email": "ugambiliadigital@gmail.co",
@@ -542,7 +576,7 @@
 		},
 		{
 			"siteId": 7,
-			"id": 20,
+			"user_id": 20,
 			"user_login": "marcovelazquez",
 			"display_name": "Marco Velázquez",
 			"user_email": "marco@alturainteractive.co",
