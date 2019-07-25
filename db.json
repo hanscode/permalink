@@ -88,6 +88,7 @@
 			"id": 1,
 			"fname": "Arya",
 			"lname": "Stark",
+			"avatar": "http://develop.permalink.co/assets/img/avatar5.png",
 			"company": "Mashable, Inc.",
 			"phone": "",
 			"email": "arya.stark@mashable.com"
@@ -96,6 +97,7 @@
 			"id": 2,
 			"fname": "Daenerys",
 			"lname": "Targaryen",
+			"avatar": "http://develop.permalink.co/assets/img/avatar6.png",
 			"company": "VentureBeat, LLC",
 			"phone": "",
 			"email": "dany.targaryen@gmail.com"
@@ -104,6 +106,7 @@
 			"id": 3,
 			"fname": "Andres",
 			"lname": "Barreto",
+			"avatar": "http://develop.permalink.co/assets/img/avatar.png",
 			"company": "Socialatom Group, LLC",
 			"phone": "",
 			"email": "andres.barreto@socialatom.com"
@@ -112,6 +115,7 @@
 			"id": 4,
 			"fname": "Diego",
 			"lname": "Herreara",
+			"avatar": "http://develop.permalink.co/assets/img/avatar4.png",
 			"company": "BITS Tecnología",
 			"phone": "",
 			"email": "diego.herrera@bits.co"
@@ -120,6 +124,7 @@
 			"id": 5,
 			"fname": "Jhon",
 			"lname": "Snow",
+			"avatar": "http://develop.permalink.co/assets/img/avatar3.png",
 			"company": "Business Insider, Inc.",
 			"phone": "",
 			"email": "jhon.snow@permalink.co"
