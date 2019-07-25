@@ -2,72 +2,127 @@
 	"websites": [{
 			"id": 1,
 			"title": "Mashable",
+			"tagline": "Mashable is a global, multi-platform media and entertainment company.",
 			"url": "mashable.com",
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
 			"client": "Arya Stark",
+			"clientId": 1,
 			"ssl": "enabled",
 			"alert": "success"
 		},
 		{
 			"id": 2,
 			"title": "VentureBeat",
+			"tagline": "entureBeat is the leading source for latest technology news. We give context to help execs, entrepreneurs, &amp; tech enthusiasts make smart decisions.",
 			"url": "venturebeat.com",
 			"status": "Updates Avaiblable",
 			"version": "4.9.6",
 			"client": "Daenerys Targaryen",
+			"clientId": 2,
 			"ssl": "enabled",
 			"alert": "warning"
 		},
 		{
 			"id": 3,
 			"title": "Business Insider",
+			"tagline": "Business Insider is a fast-growing business site with deep financial, media, tech, and other industry verticals.",
 			"url": "businessinsider.com",
 			"status": "Security Issues",
 			"version": "5.1.0",
 			"client": "Jhon Snow",
+			"clientId": 5,
 			"ssl": "enabled",
 			"alert": "danger"
 		},
 		{
 			"id": 4,
 			"title": "PulsoSocial",
+			"tagline": "Media outlet de Emprendimiento, Marketing, Tecnología e Inversión en Latinoamérica.",
 			"url": "pulsosocial.com",
 			"status": "Updates Avaiblable",
 			"version": "5.2.2",
 			"client": "Andres Barreto",
+			"clientId": 3,
 			"ssl": "enabled",
 			"alert": "warning"
 		},
 		{
 			"id": 5,
 			"title": "Pricode, LLC",
+			"tagline": "Takeing ideas to their roots.",
 			"url": "pricode.io",
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
 			"client": "",
+			"clientId": null,
 			"ssl": "none",
 			"alert": "success"
 		},
 		{
 			"id": 6,
 			"title": "BITS Tecnología",
+			"tagline": "",
 			"url": "bits.com.co",
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
 			"client": "Diego Herrera",
+			"clientId": 4,
 			"ssl": "none",
 			"alert": "success"
 		},
 		{
 			"id": 7,
 			"title": "Socialatom",
+			"tagline": "Socialatom Group is a New York based private investment and advisory firm with an economic development impact focus in Latin America.",
 			"url": "socialatomgroup.com",
 			"status": "Security Issues",
 			"version": "4.9.0",
 			"client": "Andres Barreto",
+			"clientId": 3,
 			"ssl": "enabled",
 			"alert": "danger"
+		}
+	],
+	"clients": [{
+			"id": 1,
+			"fname": "Arya",
+			"lname": "Stark",
+			"company": "Mashable, Inc.",
+			"phone": "",
+			"email": "arya.stark@mashable.com"
+		},
+		{
+			"id": 2,
+			"fname": "Daenerys",
+			"lname": "Targaryen",
+			"company": "VentureBeat, LLC",
+			"phone": "",
+			"email": "dany.targaryen@gmail.com"
+		},
+		{
+			"id": 3,
+			"fname": "Andres",
+			"lname": "Barreto",
+			"company": "Socialatom Group, LLC",
+			"phone": "",
+			"email": "andres.barreto@socialatom.com"
+		},
+		{
+			"id": 4,
+			"fname": "Diego",
+			"lname": "Herreara",
+			"company": "BITS Tecnología",
+			"phone": "",
+			"email": "diego.herrera@bits.co"
+		},
+		{
+			"id": 5,
+			"fname": "Jhon",
+			"lname": "Snow",
+			"company": "Business Insider, Inc.",
+			"phone": "",
+			"email": "jhon.snow@permalink.co"
 		}
 	],
 	"plugins": [{
