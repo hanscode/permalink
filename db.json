@@ -152,6 +152,15 @@
 			"company": "Business Insider, Inc.",
 			"phone": "",
 			"email": "jhon.snow@permalink.co"
+		},
+		{
+			"id": 6,
+			"fname": "Jason",
+			"lname": "Fried",
+			"avatar": "",
+			"company": "Basecamp, LLC.",
+			"phone": "+1 (405) 799-2300",
+			"email": "jason@basecamp.com"
 		}
 	],
 	"plugins": [{
