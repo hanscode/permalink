@@ -82,6 +82,30 @@
 			"clientId": 3,
 			"ssl": "enabled",
 			"alert": "danger"
+		},
+		{
+			"id": 8,
+			"title": "The Next Web B.V",
+			"tagline": "Original and proudly opinionated perspectives on remarkable stories for Generation T.",
+			"url": "thenextweb.com",
+			"status": "Everything is up to date!",
+			"version": "5.2.2",
+			"client": "Daenerys Targaryen",
+			"clientId": 2,
+			"ssl": "enabled",
+			"alert": "success"
+		},
+		{
+			"id": 9,
+			"title": "Tech Crunch",
+			"tagline": "TechCrunch - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley",
+			"url": "techcrunch.com",
+			"status": "Updates Avaiblable",
+			"version": "4.9.6",
+			"client": "Daenerys Targaryen",
+			"clientId": 2,
+			"ssl": "enabled",
+			"alert": "warning"
 		}
 	],
 	"clients": [{
@@ -283,6 +307,28 @@
 			"author": "Sami Ahmed Siddiqui",
 			"description": "Set custom permalinks on a per-post, per-tag or per-category basis.",
 			"version": "1.5.1"
+		},
+		{
+			"siteId": 8,
+			"id": 15,
+			"name": "wp super cache",
+			"status": "active",
+			"update": "none",
+			"icon": "https://ps.w.org/wp-super-cache/assets/icon-128x128.png",
+			"author": "Auttomatic",
+			"description": "A very fast caching engine for WordPress that produces static html files.",
+			"version": "1.6.8"
+		},
+		{
+			"siteId": 9,
+			"id": 16,
+			"name": "custom permalinks",
+			"status": "active",
+			"update": "available",
+			"icon": "https://ps.w.org/custom-permalinks/assets/icon.svg?rev=1785367",
+			"author": "Sami Ahmed Siddiqui",
+			"description": "Set custom permalinks on a per-post, per-tag or per-category basis.",
+			"version": "1.4.1"
 		}
 	],
 	"themes": [{
@@ -460,8 +506,51 @@
 			"description": "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/storefront/2.5.0/screenshot.png",
 			"version": "2.5.0"
+		},
+		{
+			"siteId": 8,
+			"id": 17,
+			"name": "Hello Elementor",
+			"status": "active",
+			"update": "none",
+			"author": "Elementor",
+			"description": "A plain-vanilla & lightweight theme for Elementor page builder",
+			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/hello-elementor/2.1.2/screenshot.png",
+			"version": "2.1.2"
+		},
+		{
+			"siteId": 8,
+			"id": 16,
+			"name": "Storefront",
+			"status": "inactive",
+			"update": "none",
+			"author": "Automattic",
+			"description": "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!",
+			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/storefront/2.5.0/screenshot.png",
+			"version": "2.5.0"
+		},
+		{
+			"siteId": 9,
+			"id": 16,
+			"name": "Storefront",
+			"status": "active",
+			"update": "none",
+			"author": "Automattic",
+			"description": "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!",
+			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/storefront/2.5.0/screenshot.png",
+			"version": "2.5.0"
+		},
+		{
+			"siteId": 9,
+			"id": 15,
+			"name": "Zerif Lite",
+			"status": "inactive",
+			"update": "none",
+			"author": "Themeisle",
+			"description": "Zerif LITE is a free one page WordPress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes.",
+			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/zerif-lite/1.8.5.49/screenshot.png",
+			"version": "1.8.5.49"
 		}
-
 	],
 	"users": [{
 			"siteId": 1,
@@ -642,6 +731,42 @@
 			"user_email": "marco@alturainteractive.co",
 			"user_registered": "2015-06-29 19:46:17",
 			"role": "contributor"
+		},
+		{
+			"siteId": 8,
+			"id": 21,
+			"user_login": "anahernandez",
+			"display_name": "Ana Maria Hernandez",
+			"user_email": "anita.hayek@gmail.com",
+			"user_registered": "2015-06-29 19:46:17",
+			"role": "administrator"
+		},
+		{
+			"siteId": 8,
+			"id": 22,
+			"user_login": "mari2659",
+			"display_name": "Mariana Steffens",
+			"user_email": "mariana@steffens.co",
+			"user_registered": "2015-06-29 19:46:17",
+			"role": "editor"
+		},
+		{
+			"siteId": 9,
+			"id": 23,
+			"user_login": "isaac",
+			"display_name": "Isaac Steffens",
+			"user_email": "isaac@gmail.com",
+			"user_registered": "2015-06-29 19:46:17",
+			"role": "administrator"
+		},
+		{
+			"siteId": 9,
+			"id": 24,
+			"user_login": "rickyrios",
+			"display_name": "Ricky Rios",
+			"user_email": "ricky@r2outdoor.co",
+			"user_registered": "2015-06-29 19:46:17",
+			"role": "contributor"
 		}
 	],
 	"core": [{
@@ -685,6 +810,18 @@
 			"name": "WordPress",
 			"update": "available",
 			"version": "4.9.0"
+		},
+		{
+			"siteId": 8,
+			"name": "WordPress",
+			"update": "none",
+			"version": "5.2.2"
+		},
+		{
+			"siteId": 9,
+			"name": "WordPress",
+			"update": "available",
+			"version": "4.9.6"
 		}
 	]
 }
