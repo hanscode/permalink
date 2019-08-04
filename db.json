@@ -6,7 +6,6 @@
 			"url": "mashable.com",
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
-			"client": "Arya Stark",
 			"clientId": 1,
 			"ssl": "enabled",
 			"alert": "success"
@@ -18,7 +17,6 @@
 			"url": "venturebeat.com",
 			"status": "Updates Avaiblable",
 			"version": "4.9.6",
-			"client": "Daenerys Targaryen",
 			"clientId": 2,
 			"ssl": "enabled",
 			"alert": "warning"
@@ -30,7 +28,6 @@
 			"url": "businessinsider.com",
 			"status": "Security Issues",
 			"version": "5.1.0",
-			"client": "Jhon Snow",
 			"clientId": 5,
 			"ssl": "enabled",
 			"alert": "danger"
@@ -42,7 +39,6 @@
 			"url": "pulsosocial.com",
 			"status": "Updates Avaiblable",
 			"version": "5.2.2",
-			"client": "Andres Barreto",
 			"clientId": 3,
 			"ssl": "enabled",
 			"alert": "warning"
@@ -54,7 +50,6 @@
 			"url": "pricode.io",
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
-			"client": "",
 			"clientId": null,
 			"ssl": "none",
 			"alert": "success"
@@ -66,7 +61,6 @@
 			"url": "bits.com.co",
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
-			"client": "Diego Herrera",
 			"clientId": 4,
 			"ssl": "none",
 			"alert": "success"
@@ -78,7 +72,6 @@
 			"url": "socialatomgroup.com",
 			"status": "Security Issues",
 			"version": "4.9.0",
-			"client": "Andres Barreto",
 			"clientId": 3,
 			"ssl": "enabled",
 			"alert": "danger"
@@ -90,7 +83,6 @@
 			"url": "thenextweb.com",
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
-			"client": "Daenerys Targaryen",
 			"clientId": 2,
 			"ssl": "enabled",
 			"alert": "success"
@@ -102,7 +94,6 @@
 			"url": "techcrunch.com",
 			"status": "Updates Avaiblable",
 			"version": "4.9.6",
-			"client": "Daenerys Targaryen",
 			"clientId": 2,
 			"ssl": "enabled",
 			"alert": "warning"
