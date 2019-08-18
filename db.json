@@ -396,11 +396,11 @@
 			"id": 3,
 			"name": "Hello Elementor",
 			"status": "inactive",
-			"update": "available",
+			"update": "none",
 			"author": "Elementor",
 			"description": "A plain-vanilla & lightweight theme for Elementor page builder",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/hello-elementor/2.1.2/screenshot.png",
-			"version": "2.1.2",
+			"version": "2.2.0",
 			"vulnerable": []
 		},
 		{
