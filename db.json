@@ -286,7 +286,7 @@
 			"icon": "https://ps.w.org/wordpress-seo/assets/icon-128x128.png",
 			"author": "Team Yoast",
 			"description": "Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the Yoast SEO plugin.",
-			"version": "11.5",
+			"version": "11.6",
 			"vulnerable": []
 		},
 		{
@@ -365,6 +365,21 @@
 				"url": "https://wpvulndb.com/vulnerabilities/9507"
 				}]
 
+		},
+		{
+			"siteId": 9,
+			"id": 18,
+			"name": "yoast seo",
+			"status": "active",
+			"update": "available",
+			"icon": "https://ps.w.org/wordpress-seo/assets/icon-128x128.png",
+			"author": "Team Yoast",
+			"description": "Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the Yoast SEO plugin.",
+			"version": "11.5",
+			"vulnerable": [{
+				"title": "Yoast SEO 1.2.0-11.5 - Authenticated Stored XSS",
+				"url": "https://wpvulndb.com/vulnerabilities/9445"
+				}]
 		}
 	],
 	"themes": [{
