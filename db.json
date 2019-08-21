@@ -264,8 +264,8 @@
 		{
 			"siteId": 5,
 			"id": 9,
-			"name": "duplicate post"
-			"slug":"duplicate-post",,
+			"name": "duplicate post",
+			"slug":"duplicate-post",
 			"status": "active",
 			"update": "none",
 			"icon": "https://ps.w.org/duplicate-post/assets/icon-128x128.png",
