@@ -165,7 +165,7 @@
 			"author": "Auttomatic",
 			"short_description": "Akismet checks your comments and contact form submissions against our global database of spam to protect you and your site from malicious content.",
 			"version": "4.0.8",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 1,
@@ -178,7 +178,7 @@
 			"author": "Auttomatic",
 			"short_description": "A very fast caching engine for WordPress that produces static html files.",
 			"version": "1.6.8",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 2,
@@ -191,7 +191,7 @@
 			"author": "Auttomatic",
 			"short_description": "Akismet checks your comments and contact form submissions against our global database of spam to protect you and your site from malicious content.",
 			"version": "4.0.8",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 3,
@@ -204,7 +204,7 @@
 			"author": "Frank Goossens (futtta)",
 			"short_description": "Autoptimize speeds up your website by optimizing JS, CSS and HTML, async-ing JavaScript, removing emoji cruft, optimizing Google Fonts and more.",
 			"version": "2.5.1",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 3,
@@ -217,10 +217,10 @@
 			"author": "Takayuki Miyoshi",
 			"short_description": "Just another contact form plugin. Simple but flexible.",
 			"version": "5.0.3",
-			"vulnerable": [{
+			"vulnerable": {
 				"title": "Contact Form 7 <= 5.0.3 - register_post_type() Privilege Escalation",
 				"url": "https://wpvulndb.com/vulnerabilities/9127"
-				}]
+				}
 		},
 		{
 			"siteId": 4,
@@ -233,7 +233,7 @@
 			"author": "Takayuki Miyoshi",
 			"short_description": "Just another contact form plugin. Simple but flexible.",
 			"version": "5.1.3",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 4,
@@ -246,7 +246,7 @@
 			"author": "Codepress",
 			"short_description": "Adds shortcodes to easily create columns in your posts or pages",
 			"version": "1.0",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 4,
@@ -259,7 +259,7 @@
 			"author": "Disqus",
 			"short_description": "Disqus is the web's most popular comment system. Use Disqus to increase engagement, retain readers, and grow your audience.",
 			"version": "3.0.17",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 5,
@@ -272,7 +272,7 @@
 			"author": "Enrico Battocchi",
 			"short_description": "Copy posts of any type with a click!",
 			"version": "3.2.2",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 5,
@@ -285,7 +285,7 @@
 			"author": "ibericode",
 			"short_description": "MailChimp for WordPress, the #1 MailChimp plugin.",
 			"version": "4.0.8",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 6,
@@ -298,7 +298,7 @@
 			"author": "Team Yoast",
 			"short_description": "Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the Yoast SEO plugin.",
 			"version": "11.6",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 6,
@@ -311,7 +311,7 @@
 			"author": "Auttomatic",
 			"short_description": "WooCommerce is a flexible, open-source eCommerce solution built on WordPress. Sell anything, anywhere and make your way.",
 			"version": "3.6.4",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 7,
@@ -324,7 +324,7 @@
 			"author": "Hal Gatewood",
 			"short_description": "Easily add Testimonials to your WordPress Blog or Company Website.",
 			"version": "2.5.2",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 7,
@@ -337,7 +337,7 @@
 			"author": "Sami Ahmed Siddiqui",
 			"short_description": "Set custom permalinks on a per-post, per-tag or per-category basis.",
 			"version": "1.5.1",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 8,
@@ -350,7 +350,7 @@
 			"author": "Auttomatic",
 			"short_description": "A very fast caching engine for WordPress that produces static html files.",
 			"version": "1.6.8",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 9,
@@ -363,7 +363,7 @@
 			"author": "Sami Ahmed Siddiqui",
 			"short_description": "Set custom permalinks on a per-post, per-tag or per-category basis.",
 			"version": "1.4.1",
-			"vulnerable": []
+			"vulnerable": {}
 
 		},
 		{
@@ -377,10 +377,10 @@
 			"author": "WP Fastest Cache",
 			"short_description": "The simplest and fastest WP Cache system",
 			"version": "0.8.9.5",
-			"vulnerable": [{
+			"vulnerable": {
 				"title": "WP Fastest Cache <= 0.8.9.5 - Directory Traversal",
 				"url": "https://wpvulndb.com/vulnerabilities/9507"
-				}]
+				}
 
 		},
 		{
@@ -394,10 +394,10 @@
 			"author": "Team Yoast",
 			"short_description": "Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the Yoast SEO plugin.",
 			"version": "11.5",
-			"vulnerable": [{
+			"vulnerable": {
 				"title": "Yoast SEO 1.2.0-11.5 - Authenticated Stored XSS",
 				"url": "https://wpvulndb.com/vulnerabilities/9445"
-				}]
+				}
 		}
 	],
 	"themes": [{
@@ -410,7 +410,7 @@
 			"description": "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/twentynineteen/1.4/screenshot.png",
 			"version": "1.4",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 1,
@@ -422,7 +422,7 @@
 			"description": "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/twentyseventeen/2.2/screenshot.png",
 			"version": "2.2",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 1,
@@ -434,7 +434,7 @@
 			"description": "A plain-vanilla & lightweight theme for Elementor page builder",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/hello-elementor/2.1.2/screenshot.png",
 			"version": "2.2.0",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 2,
@@ -446,7 +446,7 @@
 			"description": "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/twentynineteen/1.4/screenshot.png",
 			"version": "1.4",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 2,
@@ -458,7 +458,7 @@
 			"description": "A plain-vanilla & lightweight theme for Elementor page builder",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/hello-elementor/2.1.2/screenshot.png",
 			"version": "2.1.2",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 3,
@@ -470,7 +470,7 @@
 			"description": "OceanWP is the perfect theme for your project. Lightweight and highly extendable, it will enable you to create almost any type of website such a blog, portfolio, business website and WooCommerce storefront with a beautiful & professional design. Very fast, responsive, RTL & translation ready, best SEO practices, unique WooCommerce features to increase conversion and much more. You can even edit the settings on tablet & mobile so your site looks good on every device. Work with the most popular page builders as Elementor, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, etc... Developers will love his extensible codebase making it a joy to customize and extend. Best friend of Elementor & WooCommerce. Looking for a Multi-Purpose theme? Look no further! Check the demos to realize that it's the only theme you will ever need: https://oceanwp.org/demos/",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/oceanwp/1.6.8/screenshot.jpg",
 			"version": "1.6.8",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 4,
@@ -482,7 +482,7 @@
 			"description": "Hestia is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers. It has a multipurpose one-page design, widgetized footer, blog/news page and a clean look, is compatible with: Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder . The theme is responsive, WPML, Retina ready, SEO friendly, and uses Material Kit for design.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/hestia/2.4.5/screenshot.png",
 			"version": "2.4.5",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 4,
@@ -494,7 +494,7 @@
 			"description": "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/twentyseventeen/2.2/screenshot.png",
 			"version": "2.2",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 5,
@@ -506,7 +506,7 @@
 			"description": "The next generation WordPress magazine theme",
 			"screenshot": "https://pulsosocial.com/wp-content/themes/herald/screenshot.png",
 			"version": "2.0",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 5,
@@ -518,7 +518,7 @@
 			"description": "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/storefront/2.5.0/screenshot.png",
 			"version": "2.5.0",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 6,
@@ -530,7 +530,7 @@
 			"description": "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/twentytwelve/3.0/screenshot.png",
 			"version": "3.0",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 6,
@@ -542,7 +542,7 @@
 			"description": "Zerif LITE is a free one page WordPress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/zerif-lite/1.8.5.49/screenshot.png",
 			"version": "1.8.5.49",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 7,
@@ -554,7 +554,7 @@
 			"description": "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/twentyseventeen/2.2/screenshot.png",
 			"version": "2.2",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 7,
@@ -566,7 +566,7 @@
 			"description": "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/twentynineteen/1.4/screenshot.png",
 			"version": "1.4",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 7,
@@ -578,7 +578,7 @@
 			"description": "Zerif LITE is a free one page WordPress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/zerif-lite/1.8.5.49/screenshot.png",
 			"version": "1.8.5.49",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 7,
@@ -590,7 +590,7 @@
 			"description": "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/storefront/2.5.0/screenshot.png",
 			"version": "2.5.0",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 8,
@@ -602,7 +602,7 @@
 			"description": "A plain-vanilla & lightweight theme for Elementor page builder",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/hello-elementor/2.1.2/screenshot.png",
 			"version": "2.1.2",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 8,
@@ -614,7 +614,7 @@
 			"description": "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/storefront/2.5.0/screenshot.png",
 			"version": "2.5.0",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 9,
@@ -626,7 +626,7 @@
 			"description": "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/storefront/2.5.0/screenshot.png",
 			"version": "2.5.0",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 9,
@@ -638,7 +638,7 @@
 			"description": "Zerif LITE is a free one page WordPress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes.",
 			"screenshot": "https://i0.wp.com/themes.svn.wordpress.org/zerif-lite/1.8.5.49/screenshot.png",
 			"version": "1.8.5.49",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 5,
@@ -650,7 +650,7 @@
 			"description": "Child theme for Herald theme",
 			"screenshot": "https://pulsosocial.com/wp-content/themes/herald/screenshot.png",
 			"version": "0.1.0",
-			"vulnerable": []
+			"vulnerable": {}
 		},
 		{
 			"siteId": 9,
@@ -662,10 +662,10 @@
 			"description": "The #1 selling theme of all time that allows you to build virtually any design style.",
 			"screenshot": "https://markwayner.com/wp-content/themes/Avada/screenshot.png",
 			"version": "5.1.4",
-			"vulnerable": [{
+			"vulnerable": {
 				"title": "Avada Theme <= 5.1.4 - Stored Cross-Site Scripting (XSS) & CSRF",
 				"url": "https://wpvulndb.com/vulnerabilities/8801"
-				}]
+				}
 		}
 	],
 	"users": [{
