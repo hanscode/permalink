@@ -526,7 +526,6 @@
 			"screenshot_url":"\/\/ts.w.org\/wp-content\/themes\/hello-elementor\/screenshot.png?ver=2.2.0",
 			"version": "2.1.2",
 			"update_info": {
-        "id": 7,
         "changelog": null,
         "version": "2.2.0",
         "homepage":"https:\/\/wordpress.org\/themes\/hello-elementor\/",
@@ -574,7 +573,6 @@
 			"screenshot_url":"\/\/ts.w.org\/wp-content\/themes\/twentyseventeen\/screenshot.png?ver=2.2",
 			"version": "2.1",
 			"update_info": {
-        "id": 7,
         "changelog": null,
         "version": "2.2.0",
         "homepage":"https:\/\/wordpress.org\/themes\/twentyseventeen\/",
@@ -650,7 +648,6 @@
 			"screenshot_url":"\/\/ts.w.org\/wp-content\/themes\/twentyseventeen\/screenshot.png?ver=2.2",
 			"version": "2.0",
 			"update_info": {
-        "id": 7,
         "changelog": null,
         "version": "2.2.0",
         "homepage":"https:\/\/wordpress.org\/themes\/twentyseventeen\/",
@@ -782,7 +779,6 @@
 			"screenshot_url": "https://markwayner.com/wp-content/themes/Avada/screenshot.png",
 			"version": "5.1.4",
 			"update_info": {
-        "id": 7,
         "changelog": null,
         "version": "6.0",
         "homepage":"https://demo.theme-fusion.com",
