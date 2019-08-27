@@ -1015,55 +1015,84 @@
 			"siteId": 1,
 			"name": "WordPress",
 			"update": "none",
-			"version": "5.2.2"
+			"version": "5.2.2",
+			"update_info": {}
 		},
 		{
 			"siteId": 2,
 			"name": "WordPress",
 			"update": "available",
-			"version": "4.9.6"
+			"version": "4.9.6",
+			"update_info": {
+        "changelog": null,
+        "version": "5.2.2",
+        "homepage":"https://wordpress.org",
+        "last_updated":""
+      }
 		},
 		{
 			"siteId": 3,
 			"name": "WordPress",
 			"update": "available",
-			"version": "5.1.0"
+			"version": "5.1.0",
+			"update_info": {
+        "changelog": null,
+        "version": "5.2.2",
+        "homepage":"https://wordpress.org",
+        "last_updated":""
+      }
 		},
 		{
 			"siteId": 4,
 			"name": "WordPress",
 			"update": "none",
-			"version": "5.2.2"
+			"version": "5.2.2",
+			"update_info": {}
 		},
 		{
 			"siteId": 5,
 			"name": "WordPress",
 			"update": "none",
-			"version": "5.2.2"
+			"version": "5.2.2",
+			"update_info": {}
 		},
 		{
 			"siteId": 6,
 			"name": "WordPress",
 			"update": "none",
-			"version": "5.2.2"
+			"version": "5.2.2",
+			"update_info": {}
 		},
 		{
 			"siteId": 7,
 			"name": "WordPress",
 			"update": "available",
-			"version": "4.9.0"
+			"version": "4.9.0",
+			"update_info": {
+        "changelog": null,
+        "version": "5.2.2",
+        "homepage":"https://wordpress.org",
+        "last_updated":""
+      }
 		},
 		{
 			"siteId": 8,
 			"name": "WordPress",
 			"update": "none",
-			"version": "5.2.2"
+			"version": "5.2.2",
+			"update_info": {}
 		},
 		{
 			"siteId": 9,
 			"name": "WordPress",
 			"update": "available",
-			"version": "4.9.6"
+			"version": "4.9.6",
+			"update_info": {
+        "changelog": null,
+        "version": "5.2.2",
+        "homepage":"https://wordpress.org",
+        "last_updated":""
+      }
 		}
 	]
 }
