@@ -171,7 +171,7 @@
 		{
 			"siteId": 1,
 			"id": 2,
-			"name": "wp super cache",
+			"name": "WP Super Cache",
 			"slug":"wp-super-cache",
 			"status": "active",
 			"update": "none",
@@ -204,7 +204,7 @@
 		{
 			"siteId": 3,
 			"id": 4,
-			"name": "autoptimize",
+			"name": "Autoptimize",
 			"slug":"autoptimize",
 			"status": "inactive",
 			"update": "none",
@@ -218,7 +218,7 @@
 		{
 			"siteId": 3,
 			"id": 5,
-			"name": "contact form 7",
+			"name": "Contact Form 7",
 			"slug":"contact-form-7",
 			"status": "active",
 			"update": "available",
@@ -240,7 +240,7 @@
 		{
 			"siteId": 4,
 			"id": 6,
-			"name": "contact form 7",
+			"name": "Contact Form 7",
 			"slug":"contact-form-7",
 			"status": "active",
 			"update": "available",
@@ -259,7 +259,7 @@
 		{
 			"siteId": 4,
 			"id": 7,
-			"name": "column shortcodes",
+			"name": "Column Shortcodes",
 			"slug":"column-shortcodes",
 			"status": "active",
 			"update": "available",
@@ -278,7 +278,7 @@
 		{
 			"siteId": 4,
 			"id": 8,
-			"name": "disqus comment system",
+			"name": "Disqus Comment System",
 			"slug":"disqus-comment-system",
 			"status": "active",
 			"update": "none",
@@ -292,7 +292,7 @@
 		{
 			"siteId": 5,
 			"id": 9,
-			"name": "duplicate post",
+			"name": "Duplicate Post",
 			"slug":"duplicate-post",
 			"status": "active",
 			"update": "none",
@@ -320,7 +320,7 @@
 		{
 			"siteId": 6,
 			"id": 11,
-			"name": "yoast seo",
+			"name": "Yoast SEO",
 			"slug":"wordpress-seo",
 			"status": "inactive",
 			"update": "none",
@@ -334,7 +334,7 @@
 		{
 			"siteId": 6,
 			"id": 12,
-			"name": "woocommerce",
+			"name": "Woocommerce",
 			"slug":"woocommerce",
 			"status": "active",
 			"update": "none",
@@ -348,7 +348,7 @@
 		{
 			"siteId": 7,
 			"id": 13,
-			"name": "testimonial rotator",
+			"name": "Testimonial Rotator",
 			"slug":"testimonial-rotator",
 			"status": "active",
 			"update": "available",
@@ -367,7 +367,7 @@
 		{
 			"siteId": 7,
 			"id": 14,
-			"name": "custom permalinks",
+			"name": "Custom Permalinks",
 			"slug":"custom-permalinks",
 			"status": "inactive",
 			"update": "none",
@@ -381,7 +381,7 @@
 		{
 			"siteId": 8,
 			"id": 15,
-			"name": "wp super cache",
+			"name": "WP Super Cache",
 			"slug":"wp-super-cache",
 			"status": "active",
 			"update": "none",
@@ -395,7 +395,7 @@
 		{
 			"siteId": 9,
 			"id": 16,
-			"name": "custom permalinks",
+			"name": "Custom Permalinks",
 			"slug":"custom-permalinks",
 			"status": "active",
 			"update": "available",
@@ -433,12 +433,11 @@
 				"title": "WP Fastest Cache <= 0.8.9.5 - Directory Traversal",
 				"url": "https://wpvulndb.com/vulnerabilities/9507"
 				}]
-
 		},
 		{
 			"siteId": 9,
 			"id": 18,
-			"name": "yoast seo",
+			"name": "Yoast SEO",
 			"slug":"wordpress-seo",
 			"status": "active",
 			"update": "available",
