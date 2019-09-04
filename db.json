@@ -1091,7 +1091,6 @@
 		}
 	],
 	"system": [{
-			"siteId": 1,
 			"id":1,
 			"server_ip": "157.230.171.106",
 			"server_os": "Linux | nginx/1.10.3",
@@ -1111,7 +1110,6 @@
 			"language": "en_US"
 		},
 		{
-			"siteId": 2,
 			"id":2,
 			"server_ip": "167.71.96.126",
 			"server_os": "Linux | nginx/1.10.3",
@@ -1131,7 +1129,6 @@
 			"language": "en_US"
 		},
 		{
-			"siteId": 3,
 			"id":3,
 			"server_ip": "159.89.89.192",
 			"server_os": "Linux | nginx/1.10.3",
@@ -1151,7 +1148,6 @@
 			"language": "en_US"
 		},
 		{
-			"siteId": 4,
 			"id":4,
 			"server_ip": "159.89.89.192",
 			"server_os": "Linux | nginx/1.10.3",
@@ -1171,7 +1167,6 @@
 			"language": "es_ES"
 		},
 		{
-			"siteId": 5,
 			"id":5,
 			"server_ip": "209.97.147.98",
 			"server_os": "Linux | nginx/1.10.3",
@@ -1191,7 +1186,6 @@
 			"language": "en_US"
 		},
 		{
-			"siteId": 6,
 			"id":6,
 			"server_ip": "134.209.7.146",
 			"server_os": "Linux | nginx/1.10.3",
@@ -1211,7 +1205,6 @@
 			"language": "en_US"
 		},
 		{
-			"siteId": 7,
 			"id":7,
 			"server_ip": "165.227.105.226",
 			"server_os": "Linux | nginx/1.10.3",
@@ -1231,7 +1224,6 @@
 			"language": "en_US"
 		},
 		{
-			"siteId": 8,
 			"id":8,
 			"server_ip": "138.68.57.57",
 			"server_os": "Linux | nginx/1.10.3",
@@ -1251,7 +1243,6 @@
 			"language": "en_US"
 		},
 		{
-			"siteId": 9,
 			"id":9,
 			"server_ip": "134.209.160.170",
 			"server_os": "Linux | nginx/1.10.3",
