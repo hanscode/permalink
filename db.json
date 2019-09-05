@@ -1102,7 +1102,7 @@
 	"system": [{
 			"id":57,
 			"siteId":1,
-			"system_info": [
+			"info": [
 				{"name": "Server IP", "data": "157.230.171.106"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
@@ -1124,7 +1124,7 @@
 		{
 			"id":82,
 			"siteId":2,
-			"system_info": [
+			"info": [
 				{"name": "Server IP", "data": "167.71.96.126"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
@@ -1146,7 +1146,7 @@
 		{
 			"id":10,
 			"siteId":3,
-			"system_info": [
+			"info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
@@ -1168,7 +1168,7 @@
 		{
 			"id":46,
 			"siteId":4,
-			"system_info": [
+			"info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
@@ -1190,7 +1190,7 @@
 		{
 			"id":49,
 			"siteId":5,
-			"system_info": [
+			"info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
@@ -1212,7 +1212,7 @@
 		{
 			"id":26,
 			"siteId":6,
-			"system_info": [
+			"info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
@@ -1234,7 +1234,7 @@
 		{
 			"id":30,
 			"siteId":7,
-			"system_info": [
+			"info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
@@ -1256,7 +1256,7 @@
 		{
 			"id":40,
 			"siteId":8,
-			"system_info": [
+			"info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
@@ -1278,7 +1278,7 @@
 		{
 			"id":100,
 			"siteId":9,
-			"system_info": [
+			"info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
