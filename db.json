@@ -1101,7 +1101,7 @@
 	],
 	"system": [{
 			"id":57,
-			"SiteId":1,
+			"siteId":1,
 			"system_info": [
 				{"name": "Server IP", "data": "157.230.171.106"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
@@ -1123,7 +1123,7 @@
 		},
 		{
 			"id":82,
-			"SiteId":2,
+			"siteId":2,
 			"system_info": [
 				{"name": "Server IP", "data": "167.71.96.126"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
@@ -1145,7 +1145,7 @@
 		},
 		{
 			"id":10,
-			"SiteId":3,
+			"siteId":3,
 			"system_info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
@@ -1167,7 +1167,7 @@
 		},
 		{
 			"id":46,
-			"SiteId":4,
+			"siteId":4,
 			"system_info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
@@ -1189,7 +1189,7 @@
 		},
 		{
 			"id":49,
-			"SiteId":5,
+			"siteId":5,
 			"system_info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
@@ -1211,7 +1211,7 @@
 		},
 		{
 			"id":26,
-			"SiteId":6,
+			"siteId":6,
 			"system_info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
@@ -1233,7 +1233,7 @@
 		},
 		{
 			"id":30,
-			"SiteId":7,
+			"siteId":7,
 			"system_info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
@@ -1255,7 +1255,7 @@
 		},
 		{
 			"id":40,
-			"SiteId":8,
+			"siteId":8,
 			"system_info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
@@ -1277,7 +1277,7 @@
 		},
 		{
 			"id":100,
-			"SiteId":9,
+			"siteId":9,
 			"system_info": [
 				{"name": "Server IP", "data": "159.89.89.192"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
