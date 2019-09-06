@@ -1169,7 +1169,7 @@
 			"id":46,
 			"siteId":4,
 			"info": [
-				{"name": "Server IP", "data": "159.89.89.192"},
+				{"name": "Server IP", "data": "167.71.189.193"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
 				{"name": "MySQL version", "data": "5.7.23"},
@@ -1191,7 +1191,7 @@
 			"id":49,
 			"siteId":5,
 			"info": [
-				{"name": "Server IP", "data": "159.89.89.192"},
+				{"name": "Server IP", "data": "209.97.147.98"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
 				{"name": "MySQL version", "data": "5.7.23"},
@@ -1213,7 +1213,7 @@
 			"id":26,
 			"siteId":6,
 			"info": [
-				{"name": "Server IP", "data": "159.89.89.192"},
+				{"name": "Server IP", "data": "134.209.7.146"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
 				{"name": "MySQL version", "data": "5.7.23"},
@@ -1235,7 +1235,7 @@
 			"id":30,
 			"siteId":7,
 			"info": [
-				{"name": "Server IP", "data": "159.89.89.192"},
+				{"name": "Server IP", "data": "138.68.57.57"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
 				{"name": "MySQL version", "data": "5.7.23"},
@@ -1257,7 +1257,7 @@
 			"id":40,
 			"siteId":8,
 			"info": [
-				{"name": "Server IP", "data": "159.89.89.192"},
+				{"name": "Server IP", "data": "104.248.1.89"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
 				{"name": "MySQL version", "data": "5.7.23"},
@@ -1279,7 +1279,7 @@
 			"id":100,
 			"siteId":9,
 			"info": [
-				{"name": "Server IP", "data": "159.89.89.192"},
+				{"name": "Server IP", "data": "167.99.109.2"},
 				{"name": "Server OS", "data": "Linux | nginx/1.10.3"},
 				{"name": "Processor Architecture", "data": "64bit"},
 				{"name": "MySQL version", "data": "5.7.23"},
