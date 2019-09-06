@@ -7,7 +7,6 @@
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
 			"clientId": 1,
-			"systemId": 57,
 			"ssl": "enabled",
 			"alert": "success"
 		},
@@ -19,7 +18,6 @@
 			"status": "Updates Avaiblable",
 			"version": "4.9.6",
 			"clientId": 2,
-			"systemId": 82,
 			"ssl": "enabled",
 			"alert": "warning"
 		},
@@ -31,7 +29,6 @@
 			"status": "Security Issues",
 			"version": "5.1.0",
 			"clientId": 5,
-			"systemId": 10,
 			"ssl": "enabled",
 			"alert": "danger"
 		},
@@ -43,7 +40,6 @@
 			"status": "Updates Avaiblable",
 			"version": "5.2.2",
 			"clientId": 3,
-			"systemId": 46,
 			"ssl": "enabled",
 			"alert": "warning"
 		},
@@ -55,7 +51,6 @@
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
 			"clientId": null,
-			"systemId": 49,
 			"ssl": "none",
 			"alert": "success"
 		},
@@ -67,7 +62,6 @@
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
 			"clientId": 4,
-			"systemId": 26,
 			"ssl": "none",
 			"alert": "success"
 		},
@@ -79,7 +73,6 @@
 			"status": "Security Issues",
 			"version": "4.9.0",
 			"clientId": 3,
-			"systemId": 30,
 			"ssl": "enabled",
 			"alert": "danger"
 		},
@@ -91,7 +84,6 @@
 			"status": "Everything is up to date!",
 			"version": "5.2.2",
 			"clientId": 2,
-			"systemId": 40,
 			"ssl": "enabled",
 			"alert": "success"
 		},
@@ -103,7 +95,6 @@
 			"status": "Security Issues",
 			"version": "4.9.6",
 			"clientId": 2,
-			"systemId": 100,
 			"ssl": "enabled",
 			"alert": "danger"
 		}
